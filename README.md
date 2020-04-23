@@ -1,7 +1,6 @@
 # Onboarding F5 BIG-IP on IBM VPC Cloud (Gen 2)
 
-### Link to postman collection (WIP)
-https://www.getpostman.com/collections/0cfd433cc12f5c1cf7e4
+
 
 ## Create an object storage bucket and upload your BIG-IP image
 
